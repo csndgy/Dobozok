@@ -1,0 +1,54 @@
+div {
+    margin-top: 6cm;
+    margin-bottom: 6cm;
+    border-style: dotted;
+    border-color: burlywood;
+}
+
+p {
+    background-color: cornsilk;
+    text-align: center;
+    text-indent: 1.5cm;
+    margin: 3mm;
+    margin-top: 2mm;
+    margin-bottom: 2mm;
+    padding-left: 6mm;
+    padding-right: 6mm;
+
+}
+
+.bal {
+    width: 70%;
+}
+
+.jobb {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#piros{
+    border-right: double 3mm;
+    border-color: darkred   ;
+}
+
+#kék{
+    padding-bottom: 1cm;
+    border-left: 1mm;   
+    border-left-color: blueviolet  ;
+    border-left-style: dashed;
+    border-bottom-style: dashed;
+    border-bottom-color : blue;
+    border-bottom-width: 3mm;
+    
+}
+
+#kiscica{
+    text-transform: capitalize;
+    color: crimson  ;
+}
+
+#kismacska{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-weight: bold;
+    color: dodgerblue;
+}
